@@ -1,0 +1,5 @@
+.DS_Store
+node_modules/
+*.swp
+css/reveal.min.css
+js/reveal.min.js
